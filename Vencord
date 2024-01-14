@@ -21,7 +21,7 @@
   --success-color: #00FF06;
   --danger-color: #FF0000;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/m82CbFL.jpg');
+  --background-image: url('https://s1.1zoom.me/big3/756/Warriors_Assault_rifle_533637_1920x1076.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
