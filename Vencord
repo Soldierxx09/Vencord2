@@ -67,7 +67,7 @@
   --dnd-color: #A30000;
   --streaming-color: #36038D;
   --offline-color: #555555;
-  --main-font: Architects Daughter;
+  --main-font: Caveat;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
