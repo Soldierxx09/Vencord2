@@ -30,9 +30,9 @@
   --background-brightness: 189%;
   --background-contrast: 145%;
   --background-saturation: 180%;
-  --background-grayscale: 0%;
+  --background-grayscale: 100%;
   --background-invert: 14%;
-  --background-blur: 2px;
+  --background-blur: 0px;
   --background-overlay: rgb(4,4,4,0.7);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
