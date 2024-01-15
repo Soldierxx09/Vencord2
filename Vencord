@@ -58,7 +58,7 @@
   --user-modal-blur: 3px;
   --home-icon: url('https://i.redd.it/lpur8t1m43841.jpg');
   --home-position: center;
-  --home-size: 50px;
+  --home-size: 20px;
   --channel-unread: #CAC2C0;
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgb(79,79,79,0.56);
