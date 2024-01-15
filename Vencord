@@ -56,7 +56,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
+  --home-icon: url('https://i.redd.it/lpur8t1m43841.jpg');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: #CAC2C0;
