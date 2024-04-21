@@ -13,6 +13,7 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://nyri4.github.io/Discolored/main.css')
 
 :root {
   --main-color: #696969;
@@ -20,7 +21,7 @@
   --success-color: #00FF06;
   --danger-color: #FF0000;
   --url-color: var(--main-color);
-  --background-image: url('');
+  --background-image: url('https://c4.wallpaperflare.com/wallpaper/804/991/593/nissan-gtr-nissan-liberty-walk-car-forza-horizon-4-hd-wallpaper-preview.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -29,9 +30,9 @@
   --background-brightness: 189%;
   --background-contrast: 145%;
   --background-saturation: 180%;
-  --background-grayscale: 0%;
+  --background-grayscale: 100%;
   --background-invert: 14%;
-  --background-blur: 0px;
+  --background-blur: 3px;
   --background-overlay: rgb(4,4,4,0.7);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
