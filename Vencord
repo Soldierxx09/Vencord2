@@ -21,7 +21,7 @@
   --success-color: #00FF06;
   --danger-color: #FF0000;
   --url-color: var(--main-color);
-  --background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dnissan%2Bgtr&psig=AOvVaw0y3js418HsQm0lPkIAs6jC&ust=1713803220248000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi2qNTc04UDFQAAAAAdAAAAABAK');
+  --background-image: url('https://i.pinimg.com/originals/ea/52/95/ea52953033a005854762886d58e4f217.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
