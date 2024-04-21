@@ -13,7 +13,7 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
-@import url('https://nyri4.github.io/Discolored/main.css')
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --main-color: #696969;
@@ -32,7 +32,7 @@
   --background-saturation: 180%;
   --background-grayscale: 100%;
   --background-invert: 14%;
-  --background-blur: 3px;
+  --background-blur: 0px;
   --background-overlay: rgb(4,4,4,0.7);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
@@ -44,7 +44,7 @@
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 2px;
+  --user-popout-blur: 3px;
   --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
@@ -67,7 +67,7 @@
   --dnd-color: #A30000;
   --streaming-color: #36038D;
   --offline-color: #555555;
-  --main-font: M PLUS Rounded 1c;
+  --main-font: Caveat;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
