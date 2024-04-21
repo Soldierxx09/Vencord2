@@ -21,7 +21,7 @@
   --success-color: #00FF06;
   --danger-color: #FF0000;
   --url-color: var(--main-color);
-  --background-image: url('https://c4.wallpaperflare.com/wallpaper/804/991/593/nissan-gtr-nissan-liberty-walk-car-forza-horizon-4-hd-wallpaper-preview.jpg');
+  --background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dnissan%2Bgtr&psig=AOvVaw0y3js418HsQm0lPkIAs6jC&ust=1713803220248000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi2qNTc04UDFQAAAAAdAAAAABAK');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
