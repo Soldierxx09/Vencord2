@@ -18,4 +18,6 @@
   --rs-small-width: 2px;
   --rs-medium-width: 2px;
   --rs-large-width: 2px;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
 }
