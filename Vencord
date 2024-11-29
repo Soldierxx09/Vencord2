@@ -34,7 +34,7 @@
   --background-invert: 14%;
   --background-blur: 0px;
   --background-overlay: rgb(4,4,4,0.7);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://w0.peakpx.com/wallpaper/919/402/HD-wallpaper-the-cayde-6-destiny-2-cayde-6.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
