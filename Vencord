@@ -21,7 +21,7 @@
   --success-color: #00FF06;
   --danger-color: #FF0000;
   --url-color: var(--main-color);
-  --background-image: url('https://s1.1zoom.me/big3/756/Warriors_Assault_rifle_533637_1920x1076.jpg');
+  --background-image: url('https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -44,7 +44,7 @@
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 0px;
   --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
