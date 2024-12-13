@@ -1,0 +1,107 @@
+/**
+ * @name Soldier
+ * @author Soldier
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Soldier
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter:wght@100;300;400;500;700&display=swap');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --main-color: #696969;
+  --hover-color: #A8B3C1;
+  --success-color: #00FF06;
+  --danger-color: #FF0000;
+  --url-color: var(--main-color);
+  --background-image: url('https://cdn.discordapp.com/attachments/1243280870983598231/1317142053506781284/yoyoyoyoyoyo_adui.PNG?ex=675d9ba0&is=675c4a20&hm=eef30ce8f91332fb4f88c9e2f684ad2f5b42c63fb52b4ac095d6e2c56c544239&');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 189%;
+  --background-contrast: 145%;
+  --background-saturation: 180%;
+  --background-grayscale: 100%;
+  --background-invert: 14%;
+  --background-blur: 0px;
+  --background-overlay: rgb(4,4,4,0.7);
+  --user-popout-image: url('https://cdn.discordapp.com/attachments/1243280870983598231/1317142053506781284/yoyoyoyoyoyo_adui.PNG?ex=675d9ba0&is=675c4a20&hm=eef30ce8f91332fb4f88c9e2f684ad2f5b42c63fb52b4ac095d6e2c56c544239&');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://cdn.discordapp.com/attachments/1243280870983598231/1317142053506781284/yoyoyoyoyoyo_adui.PNG?ex=675d9ba0&is=675c4a20&hm=eef30ce8f91332fb4f88c9e2f684ad2f5b42c63fb52b4ac095d6e2c56c544239&');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://i.redd.it/lpur8t1m43841.jpg');
+  --home-position: center;
+  --home-size: 60px;
+  --channel-unread: #CAC2C0;
+  --channel-color: rgba(255,255,255,0.3);
+  --muted-color: rgb(79,79,79,0.56);
+  --online-color: #19C200;
+  --idle-color: #FF9F00;
+  --dnd-color: #A30000;
+  --streaming-color: #36038D;
+  --offline-color: #555555;
+  --main-font: Architects Daughter;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+}
+
+/* Any custom CSS below here */
